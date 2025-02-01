@@ -135,7 +135,7 @@ export const DATA = {
   projects: [
     {
       title: "Ai Project Suggester",
-      href: "https://github.com/varundeva/project-suggester",
+      href: "https://project-suggester.vercel.app/",
       dates: "Jan 2025 - Jan 2025",
       active: true,
       description:
@@ -219,8 +219,8 @@ export const DATA = {
       video: "",
     },
     {
-      title: "Automatic Chat",
-      href: "https://automatic.chat",
+      title: "React Next Google Tools",
+      href: "https://www.npmjs.com/package/react-next-google-tools",
       dates: "Dec 2024 - Dec 2024",
       active: true,
       description:
@@ -241,9 +241,9 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         }
       ],
-      image: "",
+      image: "/projects/google-tools.png",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
+        "",
     },
   ],
   hackathons: [ ],
